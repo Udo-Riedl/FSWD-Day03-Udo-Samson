@@ -1,19 +1,33 @@
 body {
+<<<<<<< HEAD
     font-family: Happy Monkey, sans-serif;
 }
 
 .Container {
     width: 800px;
     margin: 0 auto;
+=======
+    font-family: Roboto, sans-serif;
+}
+
+.container {
+    width: 800px;
+    margin: auto;
+>>>>>>> c04e10109cd2a2a64d5381f2d23366230fc2069a
     box-shadow: 0px 10px 5px #a3a3a3;
     padding: 0px 50px 0px 50px;
 }
 
+<<<<<<< HEAD
 p {
     color: #707070;
 }
 
 l1 {
+=======
+p,
+li {
+>>>>>>> c04e10109cd2a2a64d5381f2d23366230fc2069a
     color: #707070;
 }
 
